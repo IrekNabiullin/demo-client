@@ -1,0 +1,4 @@
+application:
+    server:
+        url: http://91.241.64.178:7081
+
